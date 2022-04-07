@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript and a little bit C#**
 
-- 👯 I’m collaborate on **Graveyard**
+- 👯 I’m collaborating with **Graveyard**
 
 - 💬 Ask me about **Graveyard**
 
