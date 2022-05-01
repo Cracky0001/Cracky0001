@@ -3,15 +3,7 @@
 
 - 🔭 I’m currently working on my **Discord Bots**
 
-- 🌱 I’m currently learning **JavaScript and a little bit C#**
-
-- 👯 I’m collaborating with **Graveyard**
-
-- 💬 Ask me about **Graveyard**
-
-- 📫 How to reach me **https://discord.gg/thegrave**
-
-- ⚡ Fun fact **Go Away Skid!**
+- 🌐 Web: **https://www.crackyfadeaway.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
