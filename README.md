@@ -2,7 +2,9 @@
 <img src="https://cdn.discordapp.com/attachments/879037664039411722/970109433948536832/Cracky.gif?size=4096">
 <h3 align="center">I am not a Developer, i am a Skid ;)</h3>
 
-- 🔭 I’m currently working on my **Discord Bots**
+```sh-session
+pip install girlfriend
+```
 
 - 🌐 Website: **https://www.crackyfadeaway.de**
 
