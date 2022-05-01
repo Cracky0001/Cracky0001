@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Discord Bots**
 
-- 🌐 Web: **https://www.crackyfadeaway.de**
+- 🌐 Website: **https://www.crackyfadeaway.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
