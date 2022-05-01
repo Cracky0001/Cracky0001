@@ -10,7 +10,7 @@ pip install girlfriend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/thegrave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thegrave" height="30" width="40" /></a>
+<img src="https://discord.c99.nl/widget/theme-4/507464069100601363.png">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
