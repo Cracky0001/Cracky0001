@@ -10,7 +10,7 @@ pip install girlfriend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://discord.c99.nl/widget/theme-4/507464069100601363.png">
+<a href="https://www.crackyfadeaway.de"> <img src="https://discord.c99.nl/widget/theme-4/507464069100601363.png"> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
