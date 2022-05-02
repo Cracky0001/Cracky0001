@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Cracky</h1>
-<a href="(https://readme-typing-svg.herokuapp.com?color=2A9507&lines=Wellcome+to+my+Bathroom!;.........;You+are+yot+wellcome!)](https://git.io/typing-svg)" a></a>
-<p align="center"> 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=65&duration=50&color=F70000&vCenter=true&multiline=true&width=1500&height=150&lines=Error+404" p> </a>
+<p align="center">
+  <a href="https://www.crackyfadeaway.de"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=790000&center=true&vCenter=true&lines=You+know+where+to+hide+the+body!;Run+if+you+want+to+die!;You+are+not+the+last!;You+still+here!"></a>
+</p>
 
 ```sh-session
 pip install girlfriend
