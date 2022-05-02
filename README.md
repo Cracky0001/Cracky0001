@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cracky</h1>
-<a href=[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=65&duration=1&color=F70000&vCenter=true&multiline=true&width=1500&height=150&lines=Error+404)](https://git.io/typing-svg)</a>
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
 <h3 align="center">I am not a Developer, i am a Skid ;)</h3>
 
 ```sh-session
