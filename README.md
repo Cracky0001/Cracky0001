@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cracky</h1>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=65&duration=50&color=F70000&vCenter=true&multiline=true&width=1500&height=150&lines=Error+404" p> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=65&duration=50&color=F70000&vCenter=true&multiline=true&width=1500&height=150&lines=Error+404" /p> </p>
 
 ```sh-session
 pip install girlfriend
