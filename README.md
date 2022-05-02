@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cracky</h1>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=65&duration=50&color=F70000&vCenter=true&multiline=true&width=1500&height=150&lines=Error+404" p> </a>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&color=AC0000&center=true&width=1200&height=140&lines=%E2%98%A6+WELCOME+TO+MY+GRAVE+%E2%98%A6;%E2%98%A6+IM+GH%C3%98ST+%E2%98%A6;%E2%98%A6+IM+HERE+TO+SLEEP...+%E2%98%A6;%E2%98%A6+LET+ME+SLEEP..+PLEASE..+%E2%98%A6"></a>
+</p>
 ```sh-session
 pip install girlfriend
 ```
