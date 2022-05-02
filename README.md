@@ -10,7 +10,8 @@ pip install girlfriend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com/users/507464069100601363"> <img src="https://discord.c99.nl/widget/theme-4/507464069100601363.png"> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1122489815&cover_image=true&theme=natemoo-re&bar_color=850000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1122489815&redirect=true) </a>
+<a href="https://discord.com/users/507464069100601363"> <img src="https://discord.c99.nl/widget/theme-4/507464069100601363.png">  </a>
+
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1122489815&cover_image=true&theme=natemoo-re&bar_color=850000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1122489815&redirect=true)
