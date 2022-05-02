@@ -3,7 +3,7 @@
 </p>
 
 ```sh-session
-pip install girlfriend
+npm i egirls
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
