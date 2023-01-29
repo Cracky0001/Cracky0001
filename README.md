@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.githubassets.com/images/mona-loading-dark.gif">
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="110" height="110"/>
 <a href="https://www.crackyfadeaway.de"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=105&color=790000&center=true&vCenter=true&width=1400&height=150&lines=I+am+not+a+Developer!;You+know+where+to+hide+the+body!;Run+if+you+want+to+die!;You+are+not+the+last!;You+still+here!"></a>
 </p>
 
