@@ -22,10 +22,18 @@ npm i skidpower
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=1122489815&cover_image=true&theme=natemoo-re&bar_color=850000&bar_color_cover=false">
   </a>
 </p>
-  
-- 🌐 Website: **[https://cracky-drinks.vodka](https://home.cracky-drinks.vodka)**
 
-<h3 align="center">Sprachen und Tools:</h3>
+<p align="center">
+  <a href="https://home.cracky-drinks.vodka">
+    <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://cracky-drinks.vodka">🌐 Visit my website</a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -35,11 +43,5 @@ npm i skidpower
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://home.cracky-drinks.vodka" target="_blank">
-    <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke">
   </a>
 </p>
