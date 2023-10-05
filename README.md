@@ -18,8 +18,8 @@ npm i skidpower
 </p>
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=1122489815&cover_image=true&theme=natemoo-re&bar_color=850000&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1122489815&cover_image=true&theme=natemoo-re&bar_color=850000&bar_color_cover=false">
+ <a href="#" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1122489815&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=false">
   </a>
 </p>
 
