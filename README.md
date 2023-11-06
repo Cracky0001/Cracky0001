@@ -30,7 +30,7 @@ npm i skidpower
 </p>
 
 <p align="center">
-  <a href="https://cracky-drinks.vodka">🌐 Visit my website</a>
+  <a href="https://home.cracky-drinks.vodka">🌐 Visit my website</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
