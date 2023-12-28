@@ -12,7 +12,7 @@ npm i skidpower
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://discord.com/users/507464069100601363">
+  <a href="[https://discord.com/users/507464069100601363](https://discord.c99.nl/widget/theme-5/507464069100601363.png)">
     <img src="https://discord.c99.nl/widget/theme-4/507464069100601363.png">
   </a>
 </p>
