@@ -17,15 +17,10 @@ npm i skidpower
   </a>
 </p>
 
-<p align="center">
- <a href="#" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1122489815&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=false">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://home.cracky-drinks.vodka">
-    a href="https://cracky-drinks.vodka" target="_blank"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="sneke"></a>
+    <a href="https://cracky-drinks.vodka" target="_blank"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="sneke"></a>
   </a>
 </p>
 
