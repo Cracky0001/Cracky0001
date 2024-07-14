@@ -25,7 +25,7 @@ npm i skidpower
 
 <p align="center">
   <a href="https://home.cracky-drinks.vodka">
-    <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke">
+    a href="https://cracky-drinks.vodka" target="_blank"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="sneke"></a>
   </a>
 </p>
 
