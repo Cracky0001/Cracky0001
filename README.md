@@ -2,7 +2,7 @@
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="110" height="110"/>
   <br>
   <a href="https://home.cracky-drinks.vodka">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=105&color=790000&center=true&vCenter=true&width=1400&height=150&lines=I+am+not+a+Developer!;You+know+where+to+hide+the+body!;Run+if+you+want+to+die!;You+are+not+the+last!;You+still+here!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=105&color=790000&center=true&vCenter=true&width=1400&height=150&lines=I+am+not+a+Developer!;You+still+here?;Fuck+off!!!">
   </a>
 </p>
 
@@ -25,7 +25,7 @@ npm i skidpower
 </p>
 
 <p align="center">
-  <a href="https://home.cracky-drinks.vodka">🌐 Visit my website</a>
+  <a href="https://hub.cracky-drinks.vodka">🌐 Visit my website</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
