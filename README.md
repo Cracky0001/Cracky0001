@@ -2,11 +2,11 @@
 
 <p align="center">
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="110" height="110" alt="Loading Cat"/>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://home.cracky-drinks.vodka">
+  
+  <a>
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=90&color=790000&center=true&vCenter=true&width=400&height=120&lines=Cracky0001" alt="Typing Title"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="110" height="110" alt="Loading Cat"/>
 </p>
 
@@ -61,22 +61,22 @@ npm i skidpower
 <h3 align="center">🧠 Tech Stack</h3>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Batch" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   </a>
 </p>
