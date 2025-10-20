@@ -22,7 +22,7 @@
 
 ---
 
-<h3 align="center">📦 Install my chaos:</h3>
+<h3 align="center">📦 Chaos:</h3>
 
 ```sh-session
 &{ $r=[System.Random]::new(); $colors="Red","Green","Yellow","Blue","Magenta","Cyan","White"; $ranges=@(@{min=0x4E00;max=0x9FFF},@{min=0x3040;max=0x309F},@{min=0x30A0;max=0x30FF}); try{ while($true){ $w=[console]::WindowWidth; $h=[console]::WindowHeight; Clear-Host; for($y=0;$y -lt $h;$y++){ $line=""; for($x=0;$x -lt $w;$x++){ $rg=$ranges[$r.Next(0,$ranges.Count)]; $line += [char]($rg.min + $r.Next(0, $rg.max - $rg.min + 1)) }; $col=$colors[$r.Next(0,$colors.Count)]; Write-Host $line -ForegroundColor $col } Start-Sleep -Milliseconds 60 } } catch { Write-Host "`nGestoppt (Ctrl+C)`n" } }
