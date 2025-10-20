@@ -25,7 +25,7 @@
 <h3 align="center">📦 Install my chaos:</h3>
 
 ```sh-session
-npm i skidpower
+&{ $r=[System.Random]::new(); $colors="Red","Green","Yellow","Blue","Magenta","Cyan","White"; $ranges=@(@{min=0x4E00;max=0x9FFF},@{min=0x3040;max=0x309F},@{min=0x30A0;max=0x30FF}); try{ while($true){ $w=[console]::WindowWidth; $h=[console]::WindowHeight; Clear-Host; for($y=0;$y -lt $h;$y++){ $line=""; for($x=0;$x -lt $w;$x++){ $rg=$ranges[$r.Next(0,$ranges.Count)]; $line += [char]($rg.min + $r.Next(0, $rg.max - $rg.min + 1)) }; $col=$colors[$r.Next(0,$colors.Count)]; Write-Host $line -ForegroundColor $col } Start-Sleep -Milliseconds 60 } } catch { Write-Host "`nGestoppt (Ctrl+C)`n" } }
 ```
 
 ---
@@ -35,16 +35,6 @@ npm i skidpower
 <p align="center">
   <a href="https://discord.com/users/507464069100601363" target="_blank">
     <img src="https://discord.c99.nl/widget/theme-4/507464069100601363.png" alt="Discord Profile" width="400"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <a href="https://cracky-drinks.vodka" target="_blank">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
   </a>
 </p>
 
@@ -89,4 +79,10 @@ npm i skidpower
 
 <p align="center">
   <sub>🔥 made with chaos & caffeine — by <b>Cracky</b> 🔥</sub>
+</p>
+
+<p align="center">
+  <a href="https://cracky-drinks.vodka" target="_blank">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  </a>
 </p>
