@@ -25,7 +25,7 @@ npm i skidpower
 </p>
 
 <p align="center">
-  <a href="https://hub.cracky-drinks.vodka">🌐 Visit my website</a>
+  <a href="https://hub.cracky-drinks.vodka">🌐 Visit my website (OFFLINE)</a>
 </p>
 
 <p align="center">
